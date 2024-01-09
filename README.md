@@ -54,3 +54,4 @@ The following steps were taken to achieve a good vector representation of the co
 ### Average Word Length
     Average Word Length is calculated by the formula:
     Sum of the total number of characters in each word/Total number of words
+    
